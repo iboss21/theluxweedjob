@@ -105,5 +105,3 @@ For support, join our Discord server or contact [https://discord.gg/thelandofwol
 - **Enhanced NPC Interactions**: Implement dialogue and more complex interactions with NPCs.
 - **Additional Jobs**: Expand the resource to include more jobs related to the RedM environment.
 - **Economy Integration**: Tie earnings from the job more directly into the server's economy, with variable payouts and market dynamics.
-
-```
