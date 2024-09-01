@@ -1,6 +1,4 @@
-Certainly! Below is the full GitHub README, formatted and expanded for clarity. This README includes all necessary sections to provide users with comprehensive information about the `TheLux Weed Job` resource for RedM.
 
-```markdown
 # TheLux Weed Job for RedM
 
 A comprehensive and customizable weed farming job for RedM, designed to be compatible with multiple frameworks including `rsg-core`, `qbr`, and `vorp`. This resource features dynamic locations, configurable interactions, and advanced anti-cheat measures.
@@ -17,13 +15,17 @@ A comprehensive and customizable weed farming job for RedM, designed to be compa
 
 1. **Download and Extract**: Download the latest version of the resource and extract it into your RedM server's `resources` directory.
 2. **Ensure Dependencies**: Make sure you have the following dependencies installed on your server:
+   ```
    - `rsg-core`
    - `rsg-target`
    - `ox_lib`
    - `vorp_core` (for VORP compatibility)
    - `qbr-core` (for QBR compatibility)
-3. **Add to Server Config**: Add the resource to your `server.cfg`:
-    ```plaintext
+   ```
+
+4. **Add to Server Config**: Add the resource to your `server.cfg`:
+
+```plaintext
     ensure thelux_weedjob
     ```
 
