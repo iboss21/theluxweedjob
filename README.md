@@ -21,13 +21,11 @@ A comprehensive and customizable weed farming job for RedM, designed to be compa
    - `ox_lib`
    - `vorp_core` (for VORP compatibility)
    - `qbr-core` (for QBR compatibility)
-   ```
 
 4. **Add to Server Config**: Add the resource to your `server.cfg`:
 
-```plaintext
-    ensure thelux_weedjob
-    ```
+    - `ensure thelux_weedjob`
+
 
 ## Configuration
 
